@@ -9,3 +9,11 @@ My first app in React! [Link for the Skillshare Course](https://www.skillshare.c
 
 
 Created with CodeSandbox. Jokes by https://icanhazdadjoke.com/ API
+
+### TODO:
+
+- [ ] Move joke search results list into it’s own component file.
+- [ ] Add a “no results found!” Message when a search returns no jokes.
+- [ ] Add a button that clears the search results, and search term.
+- [ ] Add a select input that allows user to select the amount of jokes returned from search.
+- [ ] BONUS: update search input so results update as you type.
