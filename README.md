@@ -8,4 +8,4 @@ This "Google" searches for dad jokes and only dad jokes!
 My first app in React! [Link for the Skillshare Course](https://www.skillshare.com/pt/classes/React-para-iniciantes-construa-um-aplicativo-e-aprenda-os-fundamentos/365381517/projects?category=technology) by [@ryandrewjohnson](https://github.com/ryandrewjohnson/)
 
 
-Created with CodeSandbox. 
+Created with CodeSandbox. Jokes by https://icanhazdadjoke.com/ API
